@@ -1,0 +1,25 @@
+;设置分组标志位
+代理`select`^((?!剩余流量|过期时间).)*$
+;♻️ 自动选择`url-test`.*`http://www.gstatic.com/generate_204`500
+电报`select`[]代理`(新|狮城|SG|Singa|美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US)`[]DIRECT
+油管`select`[]代理`^((?!新加坡CN2|流量|时间).)*$`[]DIRECT
+奈飞`select`[]代理`.*`[]DIRECT
+;📺 巴哈姆特`select`[]🇨🇳 台湾`[]代理`[]其他`[]DIRECT
+;📺 AbemaTV`select`[]🇯🇵 日本`[]代理`[]其他`[]DIRECT
+;🇭🇰 香港`select`(港|HK|HONG|Hong|HGC)
+;🇨🇳 台湾`select`(台|新北|彰化|TW|Tai)
+;🇸🇬 狮城`select`(新|狮城|SG|Singa)
+;🇯🇵 日本`select``(日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Jap|京日|杭日|青日)
+;🇺🇲 美国`select`(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United.*?States)
+;其他`select`GCX`^((?!新|Jap|Tai|Singa|狮城|SG|港|HK|HONG|Hong|HGC|台|新北|彰化|TW|日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Jap|京日|杭日|青日|美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United.*?States).)*$
+;🎥 奈非节点`select`(NF|解锁|Netflix|NETFLIX)
+;手动切换`select`.*
+;国外媒体`select`[]代理`[]🇭🇰 香港`[]🇨🇳 台湾`[]🇸🇬 狮城`[]🇯🇵 日本`[]🇺🇲 美国`[]其他`[]DIRECT
+b站`select`[]DIRECT`(港|HK|HONG|Hong|HGC|台|新北|彰化|TW|Tai|深澳)
+;🍎 苹果服务`select`[]DIRECT`[]🇭🇰 香港`[]🇨🇳 台湾`[]🇸🇬 狮城`[]🇯🇵 日本`[]🇺🇲 美国`[]其他
+;Ⓜ️ 微软服务`select`[]DIRECT`[]🇭🇰 香港`[]🇨🇳 台湾`[]🇸🇬 狮城`[]🇯🇵 日本`[]🇺🇲 美国`[]其他
+;🛑 全球拦截`select`[]REJECT`[]代理`[]🇸🇬 狮城`[]🇭🇰 香港`[]🇨🇳 台湾`[]🇯🇵 日本`[]🇺🇲 美国`[]其他`[]DIRECT
+规则外路由选择`select`[]代理`[]DIRECT
+;故障转移`fallback`(322|323|422)`http://www.gstatic.com/generate_204`8640
+;fallback输入你常用的2-3个节点编号
+;设置分组标志位
