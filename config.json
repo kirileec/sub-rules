@@ -1,0 +1,37 @@
+[
+  {
+    "label": "一般",
+    "options": [
+      {
+        "label": "Acl4SSR",
+        "value": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kirileec/sub-rules/main/acl4ssr.ini"
+      },
+      {
+        "label": "白名单",
+        "value": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kirileec/sub-rules/main/white.ini"
+      }
+    ]
+  },
+  {
+    "label": "自定义",
+    "options": [
+      {
+        "label": "MAYINGVIP",
+        "value": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kirileec/sub-rules/main/MAYINGVIP.ini"
+      }
+    ]
+  },
+  {
+    "label": "特殊",
+    "options": [
+      {
+        "label": "NeteaseUnblock(仅规则，No-Urltest)",
+        "value": "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/special/netease.ini"
+      },
+      {
+        "label": "Basic(仅GEOIP CN + Final)",
+        "value": "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/special/basic.ini"
+      }
+    ]
+  }
+]
