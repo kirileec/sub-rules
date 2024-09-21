@@ -21,8 +21,8 @@
         "value": "https://ghp.ci/https://raw.githubusercontent.com/kirileec/sub-rules/main/MAYINGVIP.ini"
       },
       {
-        "label": "W1nd",
-        "value": "https://ghp.ci/https://raw.githubusercontent.com/W1nd/Subconverter_CustomConfig/master/CustomConfigByW1nd_%E4%BA%91%E7%BF%BC%E7%BD%91%E7%BB%9C.ini"
+        "label": "wind",
+        "value": "https://ghp.ci/https://raw.githubusercontent.com/kirileec/sub-rules/main/wind.ini"
       }
     ]
   },
