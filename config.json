@@ -4,12 +4,12 @@
     "options": [
       {
         "label": "Acl4SSR",
-        "value": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kirileec/sub-rules/main/acl4ssr.ini"
+        "value": "https://ghp.ci/https://raw.githubusercontent.com/kirileec/sub-rules/main/acl4ssr.ini"
       },
      
       {
         "label": "白名单",
-        "value": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kirileec/sub-rules/main/white.ini"
+        "value": "https://ghp.ci/https://raw.githubusercontent.com/kirileec/sub-rules/main/white.ini"
       }
     ]
   },
@@ -18,11 +18,11 @@
     "options": [
       {
         "label": "MAYINGVIP",
-        "value": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kirileec/sub-rules/main/MAYINGVIP.ini"
+        "value": "https://ghp.ci/https://raw.githubusercontent.com/kirileec/sub-rules/main/MAYINGVIP.ini"
       },
       {
         "label": "W1nd",
-        "value": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/W1nd/Subconverter_CustomConfig/master/CustomConfigByW1nd_%E4%BA%91%E7%BF%BC%E7%BD%91%E7%BB%9C.ini"
+        "value": "https://ghp.ci/https://raw.githubusercontent.com/W1nd/Subconverter_CustomConfig/master/CustomConfigByW1nd_%E4%BA%91%E7%BF%BC%E7%BD%91%E7%BB%9C.ini"
       }
     ]
   },
