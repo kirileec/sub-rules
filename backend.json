@@ -1,23 +1,34 @@
 [
     {
+        "label": "自建修改版(从ws path 去除singbox的early_data参数)",
         "value": "https://sub.202816.xyz/sub?"
     },
     {
+        "label": "FFQ官方修改版后端",
         "value": "https://api.ytools.cc/sub?"
     },
     {
+        "label": "つつ-多地防失联【负载均衡+国内优化】",
+        "value": "https://api.tsutsu.one/sub?"
+    }
+    {
+        "label": "肥羊增强型后端【vless reality+hy1+hy2】",
         "value": "https://api.v1.mk/sub?"
     },
     {
+        "label": "nameless13提供",
         "value": "https://www.nameless13.com/sub?"
     },
     {
+        "label": "subconverter作者提供",
         "value": "https://sub.xeton.dev/sub?"
     },
     {
+        "label": "sub作者&lhie1提供",
         "value": "https://api.dler.io/sub?"
     },
     {
+        "label": "sub-web作者提供",
         "value": "https://api.wcc.best/sub?"
     }
 ]
