@@ -6,7 +6,22 @@
         "label": "Acl4SSR",
         "value": "https://ghp.ci/https://raw.githubusercontent.com/kirileec/sub-rules/main/acl4ssr.ini"
       },
-     
+      {
+        "label": "ACL4SSR_Online_Full_NoAuto",
+        "value": "https://ghp.ci/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
+      },
+      {
+                "label": "ACL4SSR_Online_Full_AdblockPlus",
+                "value": "https://ghp.ci/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_AdblockPlus.ini"
+              },
+       {
+                "label": "ACL_全分组 Dream修改版",
+                "value": "https://ghp.ci/https://raw.githubusercontent.com/WC-Dream/ACL4SSR/WD/Clash/config/ACL4SSR_Online_Full_Dream.ini"
+              },
+      {
+                "label": "ACL_精简分组 Dream修改版",
+                "value": "https://ghp.ci/https://raw.githubusercontent.com/WC-Dream/ACL4SSR/WD/Clash/config/ACL4SSR_Mini_Dream.ini"
+              },
       {
         "label": "白名单",
         "value": "https://ghp.ci/https://raw.githubusercontent.com/kirileec/sub-rules/main/white.ini"
@@ -20,6 +35,10 @@
         "label": "MAYINGVIP",
         "value": "https://ghp.ci/https://raw.githubusercontent.com/kirileec/sub-rules/main/MAYINGVIP.ini"
       },
+      {
+                "label": "Flowercloud",
+                "value": "https://subweb.s3.fr-par.scw.cloud/RemoteConfig/customized/flower.ini"
+              },
       {
         "label": "wind",
         "value": "https://ghp.ci/https://raw.githubusercontent.com/kirileec/sub-rules/main/wind.ini"
