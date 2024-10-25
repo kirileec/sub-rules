@@ -1,7 +1,7 @@
 [
     {
         "label": "自建修改版(从ws path 去除singbox的early_data参数)",
-        "value": "https://sub.202816.xyz/sub?"
+        "value": "https://sub.linx.run/sub?"
     },
     {
         "label": "FFQ官方修改版后端",
