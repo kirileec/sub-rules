@@ -11,3 +11,7 @@ DOMAIN-SUFFIX,wetest.net
 DOMAIN-SUFFIX,jupiyerlauncher.com
 DOMAIN-SUFFIX,fleetlogd.com
 DOMAIN-SUFFIX,bd2.pmang.cloud
+DOMAIN,d2cmt7gomnk3x7.cloudfront.net
+DOMAIN-WILDCARD,nikke-*.com.cdn.dnsv1.com
+DOMAIN-SUFFIX,ovslegodl.sched.ovscdns.com
+DOMAIN-WILDCARD,*.nikke-kr.com.eo.dnse*.com
