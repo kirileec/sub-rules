@@ -15,3 +15,5 @@ DOMAIN,d2cmt7gomnk3x7.cloudfront.net
 DOMAIN-WILDCARD,nikke-*.com.cdn.dnsv1.com
 DOMAIN-SUFFIX,ovslegodl.sched.ovscdns.com
 DOMAIN-WILDCARD,*.nikke-kr.com.eo.dnse*.com
+DOMAIN-SUFFIX,neonapi.com
+DOMAIN-SUFFIX,neon-file.akamaized.net
