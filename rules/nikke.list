@@ -17,3 +17,7 @@ DOMAIN-SUFFIX,ovslegodl.sched.ovscdns.com
 DOMAIN-WILDCARD,*.nikke-kr.com.eo.dnse*.com
 DOMAIN-SUFFIX,neonapi.com
 DOMAIN-SUFFIX,neon-file.akamaized.net
+IP-CIDR,18.155.202.10/32
+IP-CIDR,43.132.85.192/32
+IP-CIDR,43.152.186.163/32
+IP-CIDR,175.97.131.54/32
